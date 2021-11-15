@@ -1,0 +1,14 @@
+
+.logout-img{
+    width: 8%;
+}
+
+.div-logout{
+    float: right;
+}
+
+#messages{
+    max-height:68vh;
+    overflow:auto;
+    overflow-x:hidden;
+}
